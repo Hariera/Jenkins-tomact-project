@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Hello World! Welcome to Jenkins - Tomcat Application </h2>
-  <h2>HI Good Morning , How are you ? This is Hari- Deploy into testing server from build server2</h2>
+  <h2>HI Good Morning , How are you ? This is Hari- deploy into test server from build server : maven </server:mavem></h2>
   <h2>Deployed to production manual</h2>
   <p> Welcome to Tomcat Application server</p>
 </body>
